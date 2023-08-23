@@ -1,15 +1,18 @@
 # Sorting-Visualizer
 Visual working of different sorting algorithms
-
 Implemented algorithms:  
 
-  
-Bubble sort
-Selection sort
-Insertion sort
-Merge sort
-Quick sort
-Heap sort  
+&nbsp; &nbsp; &nbsp; &nbsp; Bubble sort  
+
+&nbsp; &nbsp; &nbsp; &nbsp; Selection sort  
+
+&nbsp; &nbsp; &nbsp; &nbsp; Insertion sort  
+
+&nbsp; &nbsp; &nbsp; &nbsp; Merge sort  
+
+&nbsp; &nbsp; &nbsp; &nbsp; Quick sort  
+
+&nbsp; &nbsp; &nbsp; &nbsp; Heap sort  
 
   
 Features:  
