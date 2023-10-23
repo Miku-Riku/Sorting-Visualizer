@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
+
 
 function Heap()
 {
@@ -18,7 +13,7 @@ function Heap()
     c_delay=0;
 
     heap_sort();
-    
+
     enable_buttons();
 }
 
@@ -96,10 +91,3 @@ function heap_sort()
     }
     div_update(divs[i],div_sizes[i],"green");//Color update
 }
-
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/

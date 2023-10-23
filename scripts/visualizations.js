@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
+
 
 //We only have to change background-color and height of the sorting element.
 
@@ -27,7 +22,7 @@ function vis_speed()
         case 5: speed=10000;
                 break;
     }
-    
+
     delay_time=10000/(Math.floor(array_size/10)*speed);        //Decrease numerator to increase speed.
 }
 
@@ -56,10 +51,3 @@ function enable_buttons()
         }
     },c_delay+=delay_time);
 }
-
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/

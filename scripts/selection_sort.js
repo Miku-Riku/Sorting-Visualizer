@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
+
 
 function Selection_sort()
 {
@@ -41,7 +36,7 @@ function Selection_sort()
                 div_update(divs[j],div_sizes[j],"blue");//Color update
             }
         }
-        
+
         if(index_min!=i)
         {
             var temp=div_sizes[index_min];
@@ -58,10 +53,3 @@ function Selection_sort()
 
     enable_buttons();
 }
-
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
